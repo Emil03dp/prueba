@@ -1,5 +1,5 @@
 p{
-	color: green;
+	color: red;
 	text-align: center;
 	text-align: justify;
 }
@@ -7,7 +7,11 @@ h2, h3 {
 	text-align: center;
 	text-align: justify;
 	text-shadow: 
-	color:blue;
+	color:red;
 }
 
-
+div{
+	text-align: left;
+	text-anchor: 10px;
+	color: blue;  
+}
